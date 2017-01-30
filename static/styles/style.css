@@ -170,17 +170,18 @@ h3 {
 .w3copyright-agile {
     margin: 2em 0 1em;
     text-align: center;
+    color: #adcbff;
 }
 .w3copyright-agile p {
     font-size: 1em;
-    color: #fff;
+    color: #adcbff;
 	line-height:1.8em;
 }
 .w3copyright-agile p a{
-    color: #fff;
+    color: #adcbff;
 }
 .w3copyright-agile p a:hover{
-    color: #FFC107;
+    color: #adcbff;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
